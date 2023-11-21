@@ -3,6 +3,7 @@
 ### 𝒞𝑜𝓂𝓅𝓊𝓉𝑒𝓇 𝓈𝒸𝒾𝑒𝓃𝒸𝑒 𝓈𝓉𝓊𝒹𝑒𝓃𝓉, 𝒷𝑒𝑔𝒾𝓃𝓃𝑒𝓇 𝒫𝓎𝓉𝒽𝑜𝓃-𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒻𝓇𝑜𝓂 𝑅𝓊𝓈𝓈𝒾𝒶 🇷🇺
 
 
+
 ### - 🔭 I’m currently working on my pet project Telegram-bot for small business sales
 ### 🌱 I’m currently learning all about WEB(Django, Flask, Docker, Telegram API, Rest API)
 ###  🤔 I’m looking for help with open source projects and get invaluable experience
