@@ -1,5 +1,5 @@
-# Hi there, I'm Alexey![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, beginner Python-developer from Russia 🇷🇺
+ ## 𝐻𝒾 𝓉𝒽𝑒𝓇𝑒! 𝐼'𝓂 𝒜𝓁𝑒𝓍!
+### 𝒞𝑜𝓂𝓅𝓊𝓉𝑒𝓇 𝓈𝒸𝒾𝑒𝓃𝒸𝑒 𝓈𝓉𝓊𝒹𝑒𝓃𝓉, 𝒷𝑒𝑔𝒾𝓃𝓃𝑒𝓇 𝒫𝓎𝓉𝒽𝑜𝓃-𝒹𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒻𝓇𝑜𝓂 𝑅𝓊𝓈𝓈𝒾𝒶 🇷🇺
 
 
 ### - 🔭 I’m currently working on my pet project Telegram-bot for small business sales
