@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krushovice)](https://github.com/Krushovice/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krushovice&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krushovice&theme=solarized_dark)
