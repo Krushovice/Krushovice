@@ -22,3 +22,8 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+[![codewars](https://www.codewars.com/users/Krushovice77/badges/small)](https://www.codewars.com/users/Krushovice77) 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Krushovice&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
