@@ -24,5 +24,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-[![codewars](https://www.codewars.com/users/Krushovice77/badges/small)](https://www.codewars.com/users/Krushovice77) 
+
+[![codewars](https://www.codewars.com/users/Krushovice77/badges/large)](https://www.codewars.com/users/Krushovice77) 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Krushovice&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
