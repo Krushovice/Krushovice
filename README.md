@@ -27,4 +27,5 @@
 
 
 [![codewars](https://www.codewars.com/users/Krushovice77/badges/large)](https://www.codewars.com/users/Krushovice77) 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Krushovice)](https://github.com/KnlnKS/leetcode-stats)
+[![Krushovice's LeetCode Stats](https://leetcode-stats.vercel.app/api?username<Krushovice>&theme=<Dark>)](https://github.com/JeremyTsaii/leetcode-stats)
+
